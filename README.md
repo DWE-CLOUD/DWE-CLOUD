@@ -1,4 +1,5 @@
 ! [logo](https://github.com/DWE-CLOUD/DWE-CLOUD/blob/main/Blue%20White%20Yellow%20Modern%20Minimalist%20Digital%20Marketing%20Banner%20.png)
+<script src="https://tryhackme.com/badge/1925093"></script>
 <h1 align="center">Heyoo 👋,I am DWE CLOUD (Aka Akshit Ohri)</h1>
 <h3 align="center">Learn and Gasp Just Like A Wasp !</h3>
 
