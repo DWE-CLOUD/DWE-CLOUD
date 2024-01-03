@@ -1,6 +1,4 @@
-
- <img src="https://tryhackme-badges.s3.amazonaws.com/akshitohri12.png" alt="TryHackMe">
-<h1 align="center">Heyoo 👋,I am DWE CLOUD (Aka Akshit Ohri)</h1>
+<h1 align="center">Heyoo 👋,I am DWE CLOUD </h1>
 <h3 align="center">Learn and Gasp Just Like A Wasp !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwe-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="dwe-cloud" /> </p>
