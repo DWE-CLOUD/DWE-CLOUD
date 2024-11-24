@@ -10,7 +10,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=dwe-cloud&style=for-the-badge&color=36BCF7FF)
+  ![Profile Views](https://komarev.com/ghpvc/?username=dwe-cloud&color=36BCF7&style=flat)
+
   [![Twitter Follow](https://img.shields.io/twitter/follow/dwecloud?logo=twitter&style=for-the-badge&color=36BCF7FF)](https://twitter.com/dwecloud)
   
 </div>
@@ -128,13 +129,13 @@ class DWECloud:
 <summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dwe-cloud&show_icons=true&theme=github_dark&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" />
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dwe-cloud&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=36BCF7FF&ring=36BCF7FF&fire=36BCF7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&dates=ffffff" />
 
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=dwe-cloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7FF&line=36BCF7FF&point=ffffff" />
-
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dwe-cloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7FF&line=36BCF7FF&point=ffffff" />
 </div>
+
 </details>
 
 <details open>
@@ -159,13 +160,22 @@ class DWECloud:
 </div>
 </details>
 
----
-
 <div align="center">
+  <h3>🌌 Exploring The Digital Universe 🌌</h3>
   
-  **⚡ Fun Fact:** *We know a drop, not an ocean.* 
-  
-  ![Snake animation](https://github.com/DWE-CLOUD/DWE-CLOUD/blob/output/github-contribution-grid-snake.svg)
+  ```python
+  while alive:
+      if brain.contains(new_idea):
+          learn()
+          implement()
+          share_knowledge()
+      else:
+          coffee.drink()
+          continue
+  ```
 
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time...;Where+code+meets+creativity...;Debugging+the+universe...)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=100&section=footer&animation=twinkling"/>
 </div>
 ```
