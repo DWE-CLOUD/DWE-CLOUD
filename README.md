@@ -1,10 +1,13 @@
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Welcome+to+DWE+CLOUD's+Universe!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%92%BB;Python+Enthusiast+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
   
   ![Header Animation](https://github.com/DWE-CLOUD/DWE-CLOUD/blob/849e653c4d53c91af6985897d476a3a95cd2ec80/Pg1.gif)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Welcome+to+DWE+CLOUD's+Universe!)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%92%BB;Python+Enthusiast+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
+  
 
 </div>
 
