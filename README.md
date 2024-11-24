@@ -1,6 +1,3 @@
-Here's a more unique and modern format for your README:
-
-
 <div align="center">
   
   ![Header Animation](https://github.com/DWE-CLOUD/DWE-CLOUD/blob/849e653c4d53c91af6985897d476a3a95cd2ec80/Pg1.gif)
